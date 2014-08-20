@@ -1,0 +1,21 @@
+{
+  "name": "cjh-remoteServices-sio-client",
+  "author": "Christy Haragan",
+  "version": "0.0.1",
+  "dependencies": {
+    "rsvp": "~3.0.8",
+    "cjh-remoteServices": "0.0.1",
+    "socket.io-client": "~1.0.6"
+  },
+  "devDependencies": {
+    "mocha": "~1.20.0",
+    "sinon": "~1.10.2",
+    "sinon-chai": "~2.5.0",
+    "chai": "~1.9.1",
+    "gulp": "~3.8.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "main": "lib/index.js"
+}
