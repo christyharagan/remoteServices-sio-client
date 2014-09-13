@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "dependencies": {
     "rsvp": "~3.0.8",
-    "cjh-remoteServices": "0.0.1",
+    "cjh-remoteServices": "~0.0.1",
     "socket.io-client": "~1.0.6"
   },
   "devDependencies": {
